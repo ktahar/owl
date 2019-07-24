@@ -9,6 +9,7 @@
 (copy_files# neural/*)
 (copy_files# linalg/*)
 (copy_files# misc/*)
+(copy_files# onnx/*)
 
 (library
  (name owl_base)
